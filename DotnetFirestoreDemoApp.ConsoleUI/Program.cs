@@ -1,12 +1,15 @@
-﻿using System;
+﻿using DotnetFirestoreDemoApp.Core;
+using System;
 
 namespace DotnetFirestoreDemoApp.ConsoleUI
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FirestoreManager.Create();
+
+            Console.ReadKey(intercept: true);
         }
     }
 }

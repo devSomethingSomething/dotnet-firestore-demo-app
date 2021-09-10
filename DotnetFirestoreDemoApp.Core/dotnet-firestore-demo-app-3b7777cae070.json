@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dotnet-firestore-demo-app",
+  "private_key_id": "3b7777cae070cbc60d9f5f1cc1bdd1be67cfdc2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVMPbeSZrDt3+l\n8/k3CAHbLootY0lyctJsFttYGdcSP+Ad2ooqFX2fJBkbhqbQ0ajAl9qnINpbWxUp\n9yJXD0nyovc0gKm6cuZ9wnmTPWaneGD8RbwA16zBkBh5CoBvLPUJ0OfR2fIoJSL7\nBeSnQ8F9Gvfr2sukExhbQKmn5Qh3UAyI++oRQETtJcE8nRVpUGcnDTD0wHjtx8eo\nttavnyMibAYQh1Bw2cwQqdSg9o4a45UZpKuEKMYYYglBNxKHBSyV/FfavqEuj9Ws\nKUR7jnRDxQM6ttLLHjP2wVdNpibphypFzSh9ezJMNkw3lWjwBLFg+Of8rawcUpu/\netBZrOt9AgMBAAECggEAHOre2Yj/WqPVxzNgLwRBiDL4YC6zBDip7SpuhzU+FIYg\nhrwheJLgrsjtNOwfTXza2IDgkkHlDHY+2Snh+RAkViqfwHnhS96RACb0abHu7jFo\nal+lIDIhB0Jd53EyuaHN/Q5em3rmG2bqJ0WF3eBVavxQ+6d6bt9+MsaDHLh23QP5\nw1ZeA9umEzfG06LtDS/t5CiItpcwAWoW9pB3ayvZYiGYUCd6rW0aT1IuFr1wHyNE\nBJJawRn5GLdsFBvDVGiYPjJwXGFtUn+rOBKSRvcBrnK9sqJYZP+1+aGMm5ffZPkl\nqaO2xQ9AWIbqHnCnRRgAcyJE+KT6dzbs1uxmgbtmewKBgQDueYpCEMiTEx7LP8Fa\noDV8KwJnfrqqRxHjJKrvPDaNHhzf0oFKtY+bTUUioomf13M7Qiy/Lv+vDmNtjkY0\n/i7aC56v3OeEkLZ55SahjtmUideoTDJgrrf3h8WEcBQvRj660qrjqbEQJRMv9bLh\na07p6/377eWanD0oQ9YZNWN2bwKBgQDk28MdnvA3ZFV95wlazGrfk/fez6jNHzo8\nyqz4z+K7MhWRwKSW0Zmm3bq7YmH2cJyfmFx70e+PbHgGzEX3HdrPgEgDSVckVivJ\nXH4RrkdWIXGie+ZmwS24f/z7rr7DVKYVJTIRMvAIycfnIRN63nOHLQWhxpYZwoJz\nNrkMfsmS0wKBgC0kiM2Uy8M7nVqwSPPU3AsTQTNCRCezqGktKcZ7yX/RMXoVKTBx\nSiwF5o514kOFz2RqVHokdXY37Q5yHkwtycSw6ms0EAeCNWjBvhxbJEkABvju46J1\nsJGE/Bjj9o40Z++JrZvHJaN+wTEU+7W8UIXrjHrCP/KSnOkgXkkLWDa1AoGAQM/7\n8eeRIB7KF13WyGAb5DWDfRZSN8UgORcs5Un6bAlDEoP8GLpDSX6B4495LtG1iX0c\ns/RAY93UIBi5t8I8tYce3c9nXmMJA32uNlOk4D+Ybuun1HHhAN8+Rgi2/Zp7boGa\nLETAtbxvYIV9fs6A6UdW0PnsiF8NkpNs1J0TeQECgYBTG8gSrqVmhECmFpuCjYnE\nJV9al6mBIa/QVAeP4yplOAC8gxgPFxUUjuMykVwRoNf5LchQ4jbZFjX8xZOaMava\n8mypxBjDEv62cIqVHvW79XfI/bMQ6EeIPyrEkS7na08raT/E7+ygfCPQWY699IV2\nGGmgZulqCaN1JDBsBZWhBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dotnet-firestore-demo-app@appspot.gserviceaccount.com",
+  "client_id": "106023600670248420140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dotnet-firestore-demo-app%40appspot.gserviceaccount.com"
+}
